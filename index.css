@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+}
+
+.card{
+    background-color: #1F2937;
+    width: 550px;
+    height: 550px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.heading{
+    color: white;
+    padding-top: 115px;
+    padding-left: 52px;
+    font-size: 40px;
+    font-family: 'Karla', sans-serif;
+    line-height: 1;
+    letter-spacing: -2.5px;
+}
+
+.heading2{
+    color: #4ADF86;
+}
+
+.motto{
+    padding-left: 52px;
+    color: white;
+    margin-top: -10px; 
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    line-height: 1;
+}
+
+button{
+    margin-top: 50px;
+    margin-left: 52px;
+    background-color: #10B981;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 9px 17px;
+    border-radius: 5px;
+    border-style: none;
+}
+
+hr{
+    border: 1px solid #2F3E53;
+    margin: 35px 52px;
+}
+
+.blank{
+    display: flex;
+}
+
+#first-password{
+    margin-left: 52px;
+    background-color: #273549;
+    width: 211px;
+    height: 30px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 12px;
+    color: #55F991;
+    border-radius: 5px;
+}
+
+#second-password{
+    margin-left: 24px;
+    background-color: #273549;
+    width: 211px;
+    height: 30px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    text-align: center;
+    padding-top: 12px;
+    color: #55F991;
+    border-radius: 5px;
+}
